@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Weather Vane</string>
+    <string name="text">Tap to get the wind direction.</string>
+    <string name="back_image">back image</string>
+    <string name="arrow">arrow</string>
+    <string name="SPEED_SUFFIX">km/h</string>
+    <string name="PROVIDED_BY">By</string>
+    <string name="LOCATION_PREFIX">Near to</string>
+    <string name="SPEED_PREFIX">Wind speed:</string>
+    <string name="ERR_NO_IP">Can not find the IP address of this device</string>
+    <string name="ERR_NO_INET">Cannot find an active internet connection</string>
+    <string name="ERR_CANT_GET_HTTP_INFO">Can not get wind information</string>
+    <string name="ERR_UNEXPECTED">An unexpected error happened</string>
+    <string name="banner_ad_unit_id">ca-app-pub-6131754724736720/3468908097</string>
+    <string name="eula"></string>
+    
+    
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Veleta</string>
+    <string name="text">"Toca para obtener la dirección del viento."</string>
+    <string name="back_image">back image</string>
+    <string name="LOCATION_PREFIX">Cerca de</string>
+    <string name="SPEED_PREFIX">Velocidad del viento:</string>
+    <string name="PROVIDED_BY">De </string>
+    
+    <string name="ERR_NO_IP">"No puedo encontrar la dirección IP de este dispositivo."</string>
+    <string name="ERR_NO_INET">"No se puede encontrar una conexión a internet."</string>
+    <string name="ERR_CANT_GET_HTTP_INFO">"No se puede conectar para obtener la información del viento."</string>
+    <string name="ERR_UNEXPECTED">Ha ocurrido un error.</string>
+    <string name="eula"></string>
+    
+</resources>
